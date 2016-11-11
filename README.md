@@ -36,6 +36,7 @@
 
 ####บันทึกผลการทดลอง
 ![](https://github.com/jaruwan2538/LAB-04/blob/master/imgs/Capture4.1.PNG?raw=true)
+จากผลการทดลอง คำไม่มีการเพิ่มบรรทัดใหม่
 
 <hr>
 <hr>
